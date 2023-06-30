@@ -1,8 +1,1 @@
-vim
-This are the coman lines i used in creating this file
-firstly i created the file with the commman line 'vi' followed b the name i wish to name the file. in this case 'up_to_date'
-And it opened a vim editing environment, where i enter/typed in this directions.
-
-in simple terms, i entered the command 'vi up_to_date' it opened where i typed this in.
-
-after typing, i exited the typing mode by pressing the esc button, then i saved the file by either pressing 'ZZ' or ':wq'
+git pull 
